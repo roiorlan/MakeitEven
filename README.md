@@ -1,4 +1,4 @@
 MakeitEven
 ==========
 
-The most amazing app ever!
+Your friendly tool for sharing expanses!
