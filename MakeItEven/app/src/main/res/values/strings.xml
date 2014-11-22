@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Make It Even</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="total_balance">Total Balance:</string>
     <string name="action_settings">Settings</string>
 
 </resources>
