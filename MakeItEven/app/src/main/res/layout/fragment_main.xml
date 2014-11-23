@@ -28,6 +28,22 @@
         android:smoothScrollbar="false"
         android:scrollingCache="false"
         android:layout_alignParentBottom="true"
-        android:layout_below="@+id/textView" />
+        android:layout_below="@+id/textView"
+        android:textAlignment="center" />
+
+    <Button
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:background="@drawable/round_button"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="+"
+        android:textSize="30dp"
+        android:textColor="#fff"
+        android:enabled="false"
+        android:shadowColor="#ff060606"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/listView"
+        android:layout_alignEnd="@+id/listView" />
 
 </RelativeLayout>
